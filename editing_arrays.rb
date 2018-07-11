@@ -12,7 +12,7 @@ def change_rainbow_colors
 end
 
 def add_colors
-rainbow_colors.push("green")
-rainbow_colors.push("blue")
-    # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
+RAINBOW_COLORS.push("green")
+RAINBOW_COLORS.push("blue")
+RAINBOW_COLORS # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
 end
